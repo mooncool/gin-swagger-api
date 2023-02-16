@@ -6,6 +6,7 @@ definitions:
         description: return message
         type: string
     type: object
+host: api.leetcode.cn
 info:
   contact: {}
 paths:

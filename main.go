@@ -13,6 +13,7 @@ type PingResponse struct {
 	Message string `json:"message"` // return message
 }
 
+// @host api.leetcode.cn
 func main() {
 	r := gin.Default()
 	r.GET("/ping", ping)

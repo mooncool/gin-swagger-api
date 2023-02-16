@@ -3,6 +3,7 @@
     "info": {
         "contact": {}
     },
+    "host": "api.leetcode.cn",
     "basePath": "/api/v1",
     "paths": {
         "/ping": {
